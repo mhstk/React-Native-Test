@@ -36,6 +36,13 @@
 			  		"url":"https://www.amazon.com/X-Y-Coldplay/dp/B0006L16N8",
 			  		"image":"https://images-na.ssl-images-amazon.com/images/I/61QgzicODcL._SX522_.jpg",
 			  		"thumbnail_image":"https://miro.medium.com/max/522/0*_YcTdWCkDbiz2-yC.png"
+			  	},
+			  	{
+			  		"title":"Mohamad Ali",
+			  		"artist":"Me",
+			  		"url":"https://www.amazon.com/X-Y-Coldplay/dp/B0006L16N8",
+			  		"image":"http://storagemhs.epizy.com/image.jpg",
+			  		"thumbnail_image":"https://miro.medium.com/max/522/0*_YcTdWCkDbiz2-yC.png"
 			  	}
 			]
 }
